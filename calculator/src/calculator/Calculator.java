@@ -12,6 +12,8 @@ import javax.swing.JFrame;
  */
 
 //Extra comment
+
+//Adding even more commments
 public class Calculator {
 	/**
 	 * Create the model, view and controller objects,
